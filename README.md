@@ -78,4 +78,3 @@ This platform marks a major shift toward a **paperless, transparent, and student
 
 Contributions are welcome! If you'd like to suggest features, fix bugs, or collaborate, feel free to fork the repository and open a pull request.
 
----
